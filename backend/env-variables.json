@@ -1,0 +1,4 @@
+{
+    "apiIdentifier": "https://my-resource-server",
+    "auth0Domain": "praneeth-oidc.auth0.com"
+  }
