@@ -1,4 +1,4 @@
-# Securing Electron Applicartion using OpenID Connect and OAuth 2.0
+# Securing Electron Application using OpenID Connect and OAuth 2.0
 
 
 
